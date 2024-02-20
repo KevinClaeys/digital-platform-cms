@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@payloadcms/bundler-webpack": "^1.0.0",
-    "@payloadcms/db-mongodb": "^1.0.0",
+    "@payloadcms/db-postgres": "^0.6.0",
     "@payloadcms/plugin-cloud": "^3.0.0",
     "@payloadcms/plugin-seo": "^2.2.1",
     "@payloadcms/richtext-slate": "^1.0.0",
